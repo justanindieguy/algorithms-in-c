@@ -1,0 +1,9 @@
+**/.vs
+**/Debug
+**/*.sln
+**/*.vcxproj
+**/*.filters
+**/*.user
+**/*.cbp
+**/*.depend
+**/*.layout
