@@ -1,3 +1,4 @@
+# Files
 **/.vs
 **/Debug
 **/*.sln
@@ -7,3 +8,7 @@
 **/*.cbp
 **/*.depend
 **/*.layout
+**/*.exe
+
+# Folders
+**/.vscode/
